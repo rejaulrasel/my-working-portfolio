@@ -53,7 +53,7 @@ h1{
     box-shadow: 10px 5px 20px 5px  gray;
     width: 95%;
     padding-right: 25px;
-    padding-left: 20px;
+    padding-left: 25px;
     margin-left: 80px;
 }
 .full-stack{
@@ -74,6 +74,7 @@ h1{
 .exp-area{
 background-image: url(images/exp-bg.png);
 background-repeat: no-repeat;
+background-position: 10px;
 
 }
 footer{
